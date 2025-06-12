@@ -149,8 +149,8 @@ Follow the steps below to set up and run the **Smart AI Resume Analyzer** on you
 Open a terminal and run:
 
    ```bash
-   git clone https://github.com/Hunterdii/resume-analyzer-ai.git
-   cd Smart-AI-Resume-Analyzer
+   git clone https://github.com/gmgautham/AI-RESUME-ANALYSER.git
+   cd AI-RESUME-ANALYSER
    ```
 
 2. **Create a Virtual Environment(Optional)**
